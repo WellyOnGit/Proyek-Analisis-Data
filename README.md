@@ -23,5 +23,4 @@ streamlit run dashboard.py
 ## Souce
 
 This project is inspired by the following dataset:
-https://www.dicoding.com/academies/555/tutorials/31230/submission-guidance#:~:text=Public%20Dataset%20(-,Sumber,-)
-
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
