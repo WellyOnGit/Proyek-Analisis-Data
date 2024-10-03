@@ -7,7 +7,7 @@ from datetime import datetime
 # Load the data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('main_data.csv')
+    df = pd.read_csv('./dashboard/main_data.csv')
     date_columns = ["order_approved_at", "order_delivered_carrier_date", "order_delivered_customer_date", "order_estimated_delivery_date", "order_purchase_timestamp", "shipping_limit_date"]
 
     for col in date_columns:
