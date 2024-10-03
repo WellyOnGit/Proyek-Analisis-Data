@@ -1,1 +1,2 @@
 https://welly-proyek-data.streamlit.app/
+https://github.com/WellyOnGit/Proyek-Analisis-Data.git
